@@ -8,6 +8,7 @@ The objective of this course is to cover the three main types of
 networks (multi-layer-perceptron, recurrent-neural-network and con-
 volutional neural network). 
 
+
 * This course range from the perceptron to
 the generation of adversarial images.
 Each lesson is followed by a corresponding lab where student learn
